@@ -1,0 +1,174 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.1f1 (270dd8c3da1c) revision 2559448'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 16215 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\unity_installs\2020.2.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Acer/Desktop/lab3
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56322
+Successfully changed project path to: C:/Users/Acer/Desktop/lab3
+C:/Users/Acer/Desktop/lab3
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 43.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path D:/unity_installs/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Acer/Desktop/lab3/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 Ti (ID=0x1f95)
+    Vendor:   
+    VRAM:     3962 MB
+    Driver:   27.21.14.5167
+Initialize mono
+Mono path[0] = 'D:/unity_installs/2020.2.1f1/Editor/Data/Managed'
+Mono path[1] = 'D:/unity_installs/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/unity_installs/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56500
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/unity_installs/2020.2.1f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/unity_installs/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001317 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 52.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.117 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002030 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.821 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.83 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1688 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.7 MB.
+System memory in use after: 79.8 MB.
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 2117.
+Total: 2.552900 ms (FindLiveObjects: 0.409500 ms CreateObjectMapping: 0.171900 ms MarkObjects: 1.886200 ms  DeleteObjects: 0.083500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Creator Kit - Puzzle/Scenes/ExampleScenes
+  artifactKey: Guid(f74fd8730ec925b488f4cacddeea9ae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - Puzzle/Scenes/ExampleScenes using Guid(f74fd8730ec925b488f4cacddeea9ae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '626db905fd766ab5fd920facbd273223') in 0.010818 seconds
+  Import took 0.015649 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Creator Kit - Puzzle/Scenes
+  artifactKey: Guid(22270a7f815cadb4b883ead2daabb8f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - Puzzle/Scenes using Guid(22270a7f815cadb4b883ead2daabb8f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f23f20082c5ad6d0d428b5f15a34556') in 0.012176 seconds
+  Import took 0.016685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.540592 seconds.
+  path: Assets/Creator Kit - Puzzle/Scenes/ExampleScenes/ExampleMenu
+  artifactKey: Guid(e4e68e29308da9d4d8d1b05b8efb70b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - Puzzle/Scenes/ExampleScenes/ExampleMenu using Guid(e4e68e29308da9d4d8d1b05b8efb70b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc64e684ccf5ddec4dfe896d2c579884') in 0.017411 seconds
+  Import took 0.023902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.827954 seconds.
+  path: Assets/Creator Kit - Puzzle/Scenes/DefaultScenes
+  artifactKey: Guid(49ef60bbe8a423241b1c4ea39321fc8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - Puzzle/Scenes/DefaultScenes using Guid(49ef60bbe8a423241b1c4ea39321fc8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b56270c6f5b2a39e9186d70eaebe05fd') in 0.020268 seconds
+  Import took 0.028955 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001988 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.025 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1644 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.1 MB.
+System memory in use after: 77.2 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2120.
+Total: 2.004600 ms (FindLiveObjects: 0.177500 ms CreateObjectMapping: 0.068400 ms MarkObjects: 1.734100 ms  DeleteObjects: 0.023700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.177146 seconds.
+  path: Assets/Creator Kit - Puzzle/Scenes/ExampleScenes/ExampleMenu.unity
+  artifactKey: Guid(0d85e03bacb199f408b4439fac4e3d46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - Puzzle/Scenes/ExampleScenes/ExampleMenu.unity using Guid(0d85e03bacb199f408b4439fac4e3d46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab68a6c57c6d725881d7a7acfac620dd') in 0.016038 seconds
+  Import took 0.018870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.238818 seconds.
+  path: Assets/Creator Kit - Puzzle/Scenes/ExampleScenes/Level01.unity
+  artifactKey: Guid(2e165c8be289f47448ae22da26c690f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Creator Kit - Puzzle/Scenes/ExampleScenes/Level01.unity using Guid(2e165c8be289f47448ae22da26c690f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13a116340f3bb6327333dc875e1d6b4a') in 0.019493 seconds
+  Import took 0.027952 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002254 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.800 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1643 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.2 MB.
+System memory in use after: 77.3 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2122.
+Total: 1.934800 ms (FindLiveObjects: 0.193200 ms CreateObjectMapping: 0.065000 ms MarkObjects: 1.619900 ms  DeleteObjects: 0.055400 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
