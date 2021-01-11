@@ -1,13 +1,10 @@
 ScriptsOnlyBuild:
   usedScripts:
-    Assembly-CSharp-Editor.dll:
-    - ReadmeEditor
     Assembly-CSharp.dll:
     - Flipper
     - MarbleAudio
     - PuzzleLayout
     - PuzzlePiece
-    - Readme
     - SceneCompletion
     - SceneMenu
     - SceneMenuIcon
@@ -1483,4 +1480,4 @@ ScriptsOnlyBuild:
   - Assets/Creator Kit - Puzzle/Scenes/DefaultScenes/DefaultMenu.unity
   - Assets/lab.unity
   - Assets/lab2.unity
-  playerPath: C:/Users/Acer/Desktop/build
+  playerPath: C:/Users/Acer/Desktop/webgl
